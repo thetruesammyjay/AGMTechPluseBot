@@ -1,0 +1,56 @@
+{
+  "training": [
+    {
+      "id": "nocode",
+      "name": "No-Code Automation Tools",
+      "description": "Learn to automate without coding using powerful no-code platforms.",
+      "details": [
+        "Zapier & Make.com mastery",
+        "Workflow automation",
+        "Business process optimization",
+        "Certification included"
+      ],
+      "price": "₦500,000",
+      "duration": "3 months"
+    },
+    {
+      "id": "webdev",
+      "name": "Web Development",
+      "description": "Comprehensive web development training from beginner to professional level.",
+      "details": [
+        "HTML, CSS, JavaScript",
+        "WordPress development",
+        "Responsive design",
+        "Portfolio projects"
+      ],
+      "price": "₦300,000",
+      "duration": "3 months"
+    },
+    {
+      "id": "digitalmarketing",
+      "name": "Digital Marketing",
+      "description": "Master modern digital marketing strategies and tools for business growth.",
+      "details": [
+        "Facebook & Google Ads",
+        "SEO optimization",
+        "Social media strategy",
+        "Analytics & reporting"
+      ],
+      "price": "₦250,000",
+      "duration": "3 months"
+    },
+    {
+      "id": "graphics",
+      "name": "Graphics & Motion Design",
+      "description": "Creative design training for branding, marketing, and digital media.",
+      "details": [
+        "Adobe Creative Suite",
+        "Logo & brand design",
+        "Motion graphics",
+        "Portfolio development"
+      ],
+      "price": "₦150,000",
+      "duration": "1 month"
+    }
+  ]
+}
